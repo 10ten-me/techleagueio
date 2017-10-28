@@ -75,9 +75,9 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."
-    subtitle = "IT Revolution is coming!"
-    buttonText = "Tell me more"
+    title = "If you have a technology problem and if no one else can help, maybe you can hire..."
+    subtitle = "The Tech League"
+    buttonText = "Who are we?"
 
 
   # Services section
@@ -142,7 +142,7 @@ googleAnalytics = ""
 
   # Portfolio section
   [params.portfolio]
-    enable = true
+    enable = false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -350,7 +350,7 @@ googleAnalytics = ""
 
   # Footer section
   [params.footer]
-    enable = true
+    enable = false
     copyright = "Published under the Apache License 2.0."
 
     [[params.footer.social]]
