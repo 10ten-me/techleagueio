@@ -293,9 +293,9 @@ googleAnalytics = ""
 
   # Contact section
   [params.contact]
-    enable = false
+    enable = true
     title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    subtitle  = ""
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a
@@ -316,7 +316,7 @@ googleAnalytics = ""
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "your@email.com"
+    email = "wowi@wowi.io"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
