@@ -48,7 +48,7 @@ googleAnalytics = ""
     brand = "Tech League"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
-    services = "Skills"
+    skills = "Skills"
     portfolio = "Portfolio"
     about = "About"
     team = "Team"
@@ -81,60 +81,60 @@ googleAnalytics = ""
 
 
   # Services section
-  [params.services]
+  [params.skills]
     enable = true
     title = "Skills"
     subtitle = ""
 
-    [[params.services.row]]
+    [[params.skills.row]]
 
-    [[params.services.row.list]]
+    [[params.skills.row.list]]
       icon = "fa-code"
       title = "Backend Development"
       description = "Creating the web is no longer about putting something out there. It's about satisfying the changing needs of the customer. In order to do that you need to optimize for speed and scale - quickly deliver software that can handle massive loads fast."
       url = "#"
 
-    [[params.services.row.list]]
+    [[params.skills.row.list]]
       icon = "fa-globe"
       title = "Frontend Development"
       description = "Even the best software can be rejected by users if it's unusable or ugly. That's why we picked a various range of technologies, like Angular 4, Typescript, Material Design and Karma/Protractor. It helps us in creating user interfaces that capture the attention, are pleasant to use and help users to take full advantage of the software underneath."
       url = "#"
 
-    [[params.services.row.list]]
+    [[params.skills.row.list]]
       icon = "fa-mobile"
       title = "Mobile Development"
       description = "We build custom mobile apps according to your unique needs and requirements. Whether you are a startup or an established company- we can help you extend your web or enterprise based applications to a mobile platform. We think that a good application is a native application. We have expertise in Swift 4 and Kotlin."
       url = "#"
 
-    [[params.services.row]]
+    [[params.skills.row]]
 
-    [[params.services.row.list]]
+    [[params.skills.row.list]]
       icon = "fa-search-plus"
       title = "Code Review"
       description = "Even the best developers are doing mistakes, that's why we systematically examine the source produced by our peers. It is intended to find mistakes overlooked in software development, improving the overall quality of software."
       url = "#"
 
-    [[params.services.row.list]]
+    [[params.skills.row.list]]
       icon = "fa-truck"
       title = "Continuous Delivery"
       description = "Automation is eating the world, so we help you to have a bite. We build the applications, run unit and integrations tests to check if the code is valid, look at a live preview of your development branch before merging into stable and deploy to multiple environments with advanced features like canary and blue-green deployments."
       url = "#"
 
-    [[params.services.row.list]]
+    [[params.skills.row.list]]
       icon = "fa-thermometer-half"
       title = "Monitoring"
       description = "To effectively implement a DevOps strategy, monitoring is not the only but an important pillar to deliver on the strategy. A monitoring solution is critical to delivering better quality code and provides a realistic feedback loop from operations to development."
       url = "#"
 
-    [[params.services.row]]
+    [[params.skills.row]]
 
-    [[params.services.row.list]]
+    [[params.skills.row.list]]
       icon = "fa-graduation-cap"
       title = "Training"
       description = "Whether you are just getting started or need formal training on advanced topics, we have a training course for you."
       url = "#"
 
-    [[params.services.row.list]]
+    [[params.skills.row.list]]
       icon = "fa-trophy"
       title = "Strategy"
       description = "Define the investment potential, technology stack, timeline, total cost of ownership and the ongoing maintenance required to launch and sustain a solution. Before beginning re-architecture or new development, we customize consulting engagements to examine your code base, align on current challenge areas and explore how to mitigate risks associated with leveraging existing code."
