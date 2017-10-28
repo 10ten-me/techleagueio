@@ -77,7 +77,7 @@ googleAnalytics = ""
     # the 'static/img' folder.
     title = "If you have a technology problem and if no one else can help, maybe you can hire..."
     subtitle = "The Tech League"
-    buttonText = "Who are we?"
+    buttonText = "Tell me more"
 
 
   # Services section
