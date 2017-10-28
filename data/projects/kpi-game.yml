@@ -1,0 +1,10 @@
+modalID: 1
+title: KPI Game
+subtitle: Internal Project from Advance to create a data-driven culture
+date: 2017-09-04
+img: roundicons.png
+preview: roundicons-preview.png
+client: Abu Dhabi Digital Media Establishment
+clientLink: "#"
+category: Management Software
+description: Internal Project from Advance with a clear target of becoming a data driven company. We wanted to expose internally our successes and failures, that's why we developed a software, based on Django, to do the evaluation of the tech team. We plugged Redash on top, to expose it on the TV.

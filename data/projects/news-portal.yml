@@ -1,0 +1,10 @@
+modalID: 7
+title: News Portal Performance Optimization
+subtitle: Performance Improvment on a new website
+date: 2017-08-10
+img: roundicons.png
+preview: roundicons-preview.png
+client: confidential
+clientLink: "#"
+category: Website Optimization
+description: Setup of 2 new layers of cache on a website which is taking around 1,100,000,000 requests/month and using 25 TB of Bandwidth/month. <br> The first layer is for pictures and videos. We went from 30% of cache to 80% and saved more than 18 TB of bandwidth per month. <br>The second layeris a MySQL Cache based on redis, with an AVG load of 800 requests/seconds.

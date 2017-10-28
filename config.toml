@@ -65,18 +65,18 @@ googleAnalytics = ""
     #  weight = 10
 
     # postpended links
-    [[menu.postpend]]
-      url = "http://gohugo.io"
-      name = "External link"
-      weight = 10
+#    [[menu.postpend]]
+#      url = "http://gohugo.io"
+#      name = "External link"
+#      weight = 10
 
 
   # Hero section
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin"
-    subtitle = "Tech League!"
+    title = "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."
+    subtitle = "IT Revolution is coming!"
     buttonText = "Tell me more"
 
 
@@ -159,7 +159,7 @@ googleAnalytics = ""
 
     # About section
   [params.about]
-    enable = true
+    enable = false
     title = "About"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
     endpoint = "Be part<br>of our<br>story!"
@@ -197,56 +197,76 @@ googleAnalytics = ""
     enable = true
     # Possibility to center items
     #center = true
-    title = "Our amazing team"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+    title = "Our elite team"
+    subtitle = ""
+    description = """The Tech League is a multi-cultural team covering a very wide spectrum of technical skills. We are all coming from different paths with one target: quality. We strive for highest quality. We believe that we can achieve it as a result of doing what we love reliably and with passion. We are serious about what we do. We care about the project and it is important for us to bring it to a successful finish. We all love programming and we are passionate about tech blogging, attending and speaking at conferences."""
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "1.jpg"
-      name = "Kay Garland"
-      position = "Lead Designer"
-      reportsTo = "CTO"
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "UX for [member dashboard](#)",
-        "Maintainer for [awesome-project](#)",
-        "Open Source [community management](#)"
-      ]
+      img = "Loic.jpg"
+      name = "Loïc Tosser"
+      position = "Leader"
       # For bio markdown and even multiline strings are available.
-      bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
-She worked at Pied Piper for years until they went belly up."""
+      bio = """C-level Engineer, strong tech skills between Development, Q&A, Operations and Big Data. Expert in Digitization, Team Leadership. Knowledges in Business, Strategy and Finance are creating the perfect combo for a cross-domain expert. Has a simple target: creating the perfect team to revolutionize IT. Talent Hunter."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
+        ["fa-twitter", "wowi42"],
+        ["fa-github", "#"],
         ["fa-linkedin", "#"]
       ]
 
     [[params.team.members]]
-      img = "2.jpg"
-      name = "Larry Parker"
-      position = "Lead Marketer"
+      img = "Pierre.jpg"
+      name = "Pierre Guillemot"
+      position = "Development Leader"
+      # For bio markdown and even multiline strings are available.
+      bio = """Self motivated person with a passion for development and building things, tending to them and making them grow into something beautiful. Always thrilled to work with talented individuals, with the same goal and benefit from each other’s skill set."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
+        ["fa-twitter", "wowi42"],
+        ["fa-github", "#"],
         ["fa-linkedin", "#"]
       ]
 
     [[params.team.members]]
-      img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Lead Developer"
+      img = "Hugo.jpg"
+      name = "Hugo Meloni"
+      position = "Ops Leader"
+      # For bio markdown and even multiline strings are available.
+      bio = """DevOps Engineer understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Linux systems."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
+        ["fa-twitter", "wowi42"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "Boguslaw.jpg"
+      name = "Boguslaw Skrzypkowiak"
+      position = "Web Development Manager"
+      # For bio markdown and even multiline strings are available.
+      bio = """Driven and focused professional with broad experience of developing web applications for multiple database platforms and devices. Having already 13 years of experience within the technical industry working with different organisations. Wish to develop himself to the limit and work with talented passionates on fascinating challenges."""
+      social = [
+        ["fa-twitter", "wowi42"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "Tarek.jpg"
+      name = "Tarek Al Sheikh Ali"
+      position = "Lead Site Reliability Engineer"
+      # For bio markdown and even multiline strings are available.
+      bio = """After 12 years of experience as Head of Development for Abu Dhabi Media and Abu Dhabi Digital Media, Tarek is now putting his experience in development into Ops side. His target is simple: all services should run 24/7."""
+      social = [
+        ["fa-twitter", "wowi42"],
+        ["fa-github", "#"],
         ["fa-linkedin", "#"]
       ]
 
   # Client section
     [params.clients_list]
-      enable = true
+      enable = false
       # Possibility to center items
       #center = true
       # Optional client title specifying the involvement
@@ -273,7 +293,7 @@ She worked at Pied Piper for years until they went belly up."""
 
   # Contact section
   [params.contact]
-    enable = true
+    enable = false
     title = "Contact us"
     subtitle  = "Lorem ipsum dolor sit amet consectetur."
     buttonText = "Send message"
