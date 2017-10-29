@@ -212,7 +212,7 @@ googleAnalytics = "UA-51698155-2"
     # Possibility to center items
     #center = true
     title = "Our elite team"
-    subtitle = ""
+    subtitle = "Currently Operating in GCC"
     description = """The Tech League is a multi-cultural team covering a very wide spectrum of technical skills. We are all coming from different paths with one target: quality. We strive for highest quality. We believe that we can achieve it as a result of doing what we love reliably and with passion. We are serious about what we do. We care about the project and it is important for us to bring it to a successful finish. We all love programming and we are passionate about tech blogging, attending and speaking at conferences."""
 
     # All team member's pictures are stored under 'static/img/team'.
