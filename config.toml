@@ -3,7 +3,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Tech League"
 theme = "agency"
-
+enableRobotsTXT = true
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-51698155-2"
 
