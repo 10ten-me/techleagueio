@@ -5,7 +5,7 @@ title = "Tech League"
 theme = "agency"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-51698155-2"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
