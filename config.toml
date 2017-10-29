@@ -151,7 +151,7 @@ googleAnalytics = "UA-51698155-2"
     [[params.skills.row.list]]
       icon = "fa-shield"
       title = "Security"
-      description = "Our vision of security is most advanced than a lot of company: security is a process, not a reaction. This expertise was evaluated by governmental entities and our process became a reference for security."
+      description = "Our vision of security is more advanced than a lot of company: security is a process, not a reaction. This expertise was evaluated by governmental entities and our process became a reference for security."
       url = "#"
     
   # Portfolio section
