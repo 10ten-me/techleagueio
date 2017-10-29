@@ -217,9 +217,9 @@ googleAnalytics = "UA-51698155-2"
       # For bio markdown and even multiline strings are available.
       bio = """C-level Engineer, strong tech skills between Development, Q&A, Operations and Big Data. Expert in Digitization, Team Leadership. Knowledges in Business, Strategy and Finance are creating the perfect combo for a cross-domain expert. Has a simple target: creating the perfect team to revolutionize IT. Talent Hunter."""
       social = [
-        ["fa-twitter", "wowi42"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/Wowi42"],
+        ["fa-github", "https://github.com/wowi42"],
+        ["fa-linkedin", "https://www.linkedin.com/in/ltosser/"]
       ]
 
     [[params.team.members]]
