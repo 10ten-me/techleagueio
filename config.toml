@@ -18,7 +18,7 @@ googleAnalytics = "UA-51698155-2"
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Tech League IO"
-  description = "Elite Team in IT"
+  description = "Elite Team in IT specialized in Development, Code Review, DevOps, Big Data, Strategy and Security."
 
   # Link custom assets relative to /static
   custom_css = ["css/techleague.css"]
