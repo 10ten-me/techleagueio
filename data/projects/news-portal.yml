@@ -2,9 +2,9 @@ modalID: 7
 title: News Portal Performance Optimization
 subtitle: Performance Improvment on a new website
 date: 2017-08-10
-img: roundicons.png
-preview: roundicons-preview.png
+img: news-portal.png
+preview: news-portal-small.png
 client: confidential
 clientLink: "#"
 category: Website Optimization
-description: Setup of 2 new layers of cache on a website which is taking around 1,100,000,000 requests/month and using 25 TB of Bandwidth/month. <br> The first layer is for pictures and videos. We went from 30% of cache to 80% and saved more than 18 TB of bandwidth per month. <br>The second layeris a MySQL Cache based on redis, with an AVG load of 800 requests/seconds.
+description: Setup of 2 new layers of cache on a website which is taking around 1,100,000,000 requests/month and using 25 TB of Bandwidth/month. <br> The first layer is for pictures and videos and is based on [NGiNX](https://nginx.org/en/) with [TMPFS](https://wiki.archlinux.org/index.php/tmpfs). We went from 30% of cache to 80% and saved more than 18 TB of bandwidth per month. <br>The second layer is a MySQL Cache based on [Redis](https://redis.io/), with an AVG load of 800 requests/seconds. We are monitoring everything with [Datadog](https://www.datadoghq.com/).

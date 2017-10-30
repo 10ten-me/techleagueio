@@ -156,7 +156,7 @@ googleAnalytics = "UA-51698155-2"
     
   # Portfolio section
   [params.portfolio]
-    enable = false
+    enable = true
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -248,11 +248,6 @@ googleAnalytics = "UA-51698155-2"
       position = "Ops Leader"
       # For bio markdown and even multiline strings are available.
       bio = """DevOps Engineer understands the melding of operations and development to quickly deliver code to customers. Has experience with the Cloud and monitoring processes as well as DevOps development in Linux systems."""
-      social = [
-        ["fa-twitter", "wowi42"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
-      ]
 
     [[params.team.members]]
       img = "Boguslaw.jpg"
@@ -260,11 +255,6 @@ googleAnalytics = "UA-51698155-2"
       position = "Web Development Manager"
       # For bio markdown and even multiline strings are available.
       bio = """Driven and focused professional with broad experience of developing web applications for multiple database platforms and devices. Having already 13 years of experience within the technical industry working with different organisations. Wish to develop himself to the limit and work with talented passionates on fascinating challenges."""
-      social = [
-        ["fa-twitter", "wowi42"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
-      ]
 
     [[params.team.members]]
       img = "Tarek.jpg"
@@ -272,11 +262,6 @@ googleAnalytics = "UA-51698155-2"
       position = "Lead Site Reliability Engineer"
       # For bio markdown and even multiline strings are available.
       bio = """After 12 years of experience as Head of Development for Abu Dhabi Media and Abu Dhabi Digital Media, Tarek is now putting his experience in development into Ops side. His target is simple: all services should run 24/7."""
-      social = [
-        ["fa-twitter", "wowi42"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
-      ]
 
   # Client section
     [params.clients_list]
