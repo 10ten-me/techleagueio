@@ -1,0 +1,10 @@
+modalID: 8
+title: National Geographic Moments Competition
+subtitle: Photo contest website
+date: 2017-06-30
+img: natgeo-moments.png
+preview: natgeo-moments.png
+client: National Geographic Al Arabiya
+clientLink: "http://www.natgeo-moments.com/"
+category: Competition Website
+description: In a joint effort to nurture the aspirations of budding photographers throughout the region, National Geographic Abu Dhabi and Almarai are proud to present Moments – a photography competition that requires participants from every walk of life to capture and move audiences and judges through a single image based on a chosen theme and inspired moment. As we enter the 7th year of this highly acclaimed competition, we plan to go further. For the first time in this competition, we are introducing two new categories as Photo Documentary and Youth Photography. We hope to inspire the young and the young at heart. Push the boundaries of creativity. And ultimately, evoke a sense of accomplishment as we bring personal, heart-felt stories to life through the power of imagination. <br>Website built using [Django](https://www.djangoproject.com/), [BootStrap](http://getbootstrap.com/) and [AWS S3](https://aws.amazon.com/s3/).
