@@ -1,0 +1,10 @@
+modalID: ADMEservices
+title: Abu Dhabi Media - Eservices
+subtitle: Provide Services from Abu Dhabi Media to public
+date: 2017-11-05
+img: abudhabimedia-eservices.jpg
+preview: abudhabimedia-eservices-small.jpg
+client: Abu Dhabi Media
+clientLink: "http://admedia.ae"
+category: Eservices
+description: ADM service portal is for the clients to create and submit request. It's exposing to customer all services available in [Abu Dhabi Media](http://admedia.ae). <br>We've developed this website using [Typescript](https://www.typescriptlang.org/), [Angular4](https://angular.io/), [Go](https://golang.org/), [PostgreSQL](https://www.postgresql.org/), [Minio](http://minio.io/) and [RabbitMQ](https://www.rabbitmq.com/). This application is compliant with ADSIC and NESA rules.
