@@ -237,9 +237,9 @@ googleAnalytics = "UA-51698155-2"
       # For bio markdown and even multiline strings are available.
       bio = """Self motivated person with a passion for development and building things, tending to them and making them grow into something beautiful. Always thrilled to work with talented individuals, with the same goal and benefit from each other’s skill set."""
       social = [
-        ["fa-twitter", "wowi42"],
-        ["fa-github", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/hnb_02"],
+        ["fa-github", "https://github.com/hnb2"],
+        ["fa-linkedin", "https://www.linkedin.com/in/pierre-guillemot-32829239/"]
       ]
 
     [[params.team.members]]
