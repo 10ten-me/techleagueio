@@ -1,0 +1,10 @@
+modalID: TVAE
+title: TV.AE
+subtitle: Streaming platform for the Middle East
+date: 2017-09-15
+img: tvae.png
+preview: tvae-small.png
+client: Abu Dhabi Media
+clientLink: "https://video.tv.ae"
+category: TV.AE
+description: TV.AE is a streaming platform where users can subscribe to watch premium content such as AGL, movies, series, shows and events. You can pay by credit card, SMS, Itunes or Google Wallet. A central [GraphQL](http://graphql.org/learn/) server is serving data to our multitude of brand new clients rewritten from the ground up. Smart TV using [Angular 4](https://angular.io/) and [Samsung Toast](http://developer.samsung.com/tv/develop/extension-libraries/toast/). Responsive [progressive web app](https://developers.google.com/web/progressive-web-apps/) using [Angular 4](https://angular.io/) with [Chromecast](www.google.com/chromecast) support. Apple Tv and Ios apps using [Swift 4](https://swift.org/blog/swift-4-0-released/). Android app using [Kotlin](https://kotlinlang.org/).
